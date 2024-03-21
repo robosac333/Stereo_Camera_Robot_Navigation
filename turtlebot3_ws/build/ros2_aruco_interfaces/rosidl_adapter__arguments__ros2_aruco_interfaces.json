@@ -1,0 +1,6 @@
+{
+  "package_name": "ros2_aruco_interfaces",
+  "non_idl_tuples": [
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/ros2_aruco/ros2_aruco_interfaces:msg/ArucoMarkers.msg"
+  ]
+}

@@ -1,0 +1,17 @@
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/install/strip.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/install/local.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/install.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/obstacle1.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/list_install_components.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/turtlebot3_drive.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/ament_cmake_python_copy_turtlebot3_gazebo.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/turtlebot3_gazebo_uninstall.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/obstacle2.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/obstacles.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/ament_cmake_python_copy_turtlebot3_gazebo_setup.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/ament_cmake_python_build_turtlebot3_gazebo_egg.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/ament_cmake_python_build_turtlebot3_gazebo_scripts.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/uninstall.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/test.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/rebuild_cache.dir
+/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/edit_cache.dir

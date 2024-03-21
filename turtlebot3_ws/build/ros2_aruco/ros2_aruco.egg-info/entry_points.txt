@@ -1,0 +1,3 @@
+[console_scripts]
+aruco_node = ros2_aruco.aruco_node:main
+

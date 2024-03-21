@@ -1,0 +1,369 @@
+[0.660s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo
+[1.240s] -- The C compiler identification is GNU 9.4.0
+[1.240s] -- The CXX compiler identification is GNU 9.4.0
+[1.240s] -- Check for working C compiler: /usr/bin/cc
+[1.240s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.240s] -- Detecting C compiler ABI info
+[1.240s] -- Detecting C compiler ABI info - done
+[1.240s] -- Detecting C compile features
+[1.240s] -- Detecting C compile features - done
+[1.240s] -- Check for working CXX compiler: /usr/bin/c++
+[1.240s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.240s] -- Detecting CXX compiler ABI info
+[1.240s] -- Detecting CXX compiler ABI info - done
+[1.240s] -- Detecting CXX compile features
+[1.240s] -- Detecting CXX compile features - done
+[1.240s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[1.240s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.240s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.240s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[1.240s] -- Checking for module 'bullet>=2.82'
+[1.240s] --   Found bullet, version 2.88
+[1.240s] -- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+[1.243s] -- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+[1.286s] -- Found assimp: /usr/include (found version "5.0.0") 
+[1.302s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.549s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.574s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+[1.580s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.587s] -- Searching for dependencies of ignition-math6
+[1.588s] -- Looking for OGRE...
+[1.589s] -- OGRE_PREFIX_WATCH changed.
+[1.594s] -- Checking for module 'OGRE'
+[1.606s] --   Found OGRE, version 1.9.0
+[1.641s] -- Found Ogre Ghadamon (1.9.0)
+[1.647s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.654s] -- Looking for OGRE_Paging...
+[1.659s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.659s] -- Looking for OGRE_Terrain...
+[1.663s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.664s] -- Looking for OGRE_Property...
+[1.668s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.668s] -- Looking for OGRE_RTShaderSystem...
+[1.672s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.672s] -- Looking for OGRE_Volume...
+[1.676s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.676s] -- Looking for OGRE_Overlay...
+[1.680s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.766s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.767s] -- Looking for ignition-transport8 -- found version 8.3.0
+[1.767s] -- Searching for dependencies of ignition-transport8
+[1.780s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+[1.790s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.795s] -- Checking for module 'libzmq >= 4'
+[1.818s] --   Found libzmq , version 4.3.2
+[1.869s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[1.874s] -- Checking for module 'uuid'
+[1.886s] --   Found uuid, version 2.34.0
+[1.912s] -- Found UUID: TRUE  
+[1.914s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[1.915s] -- Searching for dependencies of ignition-msgs5
+[1.934s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.938s] -- Checking for module 'tinyxml2'
+[1.955s] --   Found tinyxml2, version 6.2.0
+[1.986s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[1.987s] -- Looking for ignition-common3 -- found version 3.14.2
+[1.987s] -- Searching for dependencies of ignition-common3
+[1.987s] -- Looking for dlfcn.h - found
+[1.988s] -- Looking for libdl - found
+[1.989s] -- Found DL: TRUE  
+[1.995s] -- Searching for <ignition-common3> component [graphics]
+[1.996s] -- Looking for ignition-common3-graphics -- found version 3.14.2
+[1.996s] -- Searching for dependencies of ignition-common3-graphics
+[1.997s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.998s] -- Looking for ignition-fuel_tools4 -- found version 4.6.0
+[1.999s] -- Searching for dependencies of ignition-fuel_tools4
+[2.079s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+[2.087s] -- Checking for module 'jsoncpp'
+[2.104s] --   Found jsoncpp, version 1.7.4
+[2.147s] -- Found JSONCPP: TRUE  
+[2.154s] -- Checking for module 'libzip'
+[2.172s] --   Found libzip, version 1.5.1
+[2.209s] -- Found ZIP: TRUE  
+[2.209s] -- Looking for ignition-common3 -- found version 3.14.2
+[2.210s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.210s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[2.214s] -- Found gazebo_ros_pkgs: 3.5.2 (/opt/ros/galactic/share/gazebo_ros_pkgs/cmake)
+[2.218s] -- Found geometry_msgs: 2.2.4 (/opt/ros/galactic/share/geometry_msgs/cmake)
+[2.244s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.252s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[2.351s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.383s] -- Found FastRTPS: /opt/ros/galactic/include  
+[2.476s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.551s] -- Found nav_msgs: 2.2.4 (/opt/ros/galactic/share/nav_msgs/cmake)
+[2.620s] -- Found rclcpp: 9.2.2 (/opt/ros/galactic/share/rclcpp/cmake)
+[2.668s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[2.671s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[2.696s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[2.699s] -- Found Threads: TRUE  
+[2.868s] -- Found sensor_msgs: 2.2.4 (/opt/ros/galactic/share/sensor_msgs/cmake)
+[2.952s] -- Found tf2: 0.17.5 (/opt/ros/galactic/share/tf2/cmake)
+[3.170s] -- Configuring done
+[3.231s] -- Generating done
+[3.238s] -- Build files have been written to: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo
+[3.265s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo
+[3.269s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo -- -j12 -l12
+[3.350s] [35m[1mScanning dependencies of target obstacle1[0m
+[3.394s] [35m[1mScanning dependencies of target turtlebot3_drive[0m
+[3.401s] [35m[1mScanning dependencies of target obstacle2[0m
+[3.406s] [35m[1mScanning dependencies of target obstacles[0m
+[3.443s] [35m[1mScanning dependencies of target ament_cmake_python_copy_turtlebot3_gazebo_setup[0m
+[3.450s] [35m[1mScanning dependencies of target ament_cmake_python_copy_turtlebot3_gazebo[0m
+[3.560s] [ 12%] [32mBuilding CXX object CMakeFiles/turtlebot3_drive.dir/src/turtlebot3_drive.cpp.o[0m
+[3.560s] [ 12%] Built target ament_cmake_python_copy_turtlebot3_gazebo
+[3.591s] [ 12%] Built target ament_cmake_python_copy_turtlebot3_gazebo_setup
+[3.662s] [ 25%] [32mBuilding CXX object CMakeFiles/obstacles.dir/models/turtlebot3_dqn_world/obstacle_plugin/obstacles.cc.o[0m
+[3.690s] [ 37%] [32mBuilding CXX object CMakeFiles/obstacle1.dir/models/turtlebot3_dqn_world/obstacle_plugin/obstacle1.cc.o[0m
+[3.706s] [35m[1mScanning dependencies of target ament_cmake_python_build_turtlebot3_gazebo_scripts[0m
+[3.710s] [ 50%] [32mBuilding CXX object CMakeFiles/obstacle2.dir/models/turtlebot3_dqn_world/obstacle_plugin/obstacle2.cc.o[0m
+[3.716s] [35m[1mScanning dependencies of target ament_cmake_python_build_turtlebot3_gazebo_egg[0m
+[4.248s] running egg_info
+[4.248s] creating turtlebot3_gazebo.egg-info
+[4.249s] writing turtlebot3_gazebo.egg-info/PKG-INFO
+[4.249s] writing dependency_links to turtlebot3_gazebo.egg-info/dependency_links.txt
+[4.249s] writing entry points to turtlebot3_gazebo.egg-info/entry_points.txt
+[4.249s] writing top-level names to turtlebot3_gazebo.egg-info/top_level.txt
+[4.251s] writing manifest file 'turtlebot3_gazebo.egg-info/SOURCES.txt'
+[4.339s] reading manifest file 'turtlebot3_gazebo.egg-info/SOURCES.txt'
+[4.339s] writing manifest file 'turtlebot3_gazebo.egg-info/SOURCES.txt'
+[4.470s] [ 50%] Built target ament_cmake_python_build_turtlebot3_gazebo_egg
+[4.572s] running install_scripts
+[4.617s] running egg_info
+[4.619s] writing turtlebot3_gazebo.egg-info/PKG-INFO
+[4.619s] writing dependency_links to turtlebot3_gazebo.egg-info/dependency_links.txt
+[4.620s] writing entry points to turtlebot3_gazebo.egg-info/entry_points.txt
+[4.620s] writing top-level names to turtlebot3_gazebo.egg-info/top_level.txt
+[4.675s] reading manifest file 'turtlebot3_gazebo.egg-info/SOURCES.txt'
+[4.678s] writing manifest file 'turtlebot3_gazebo.egg-info/SOURCES.txt'
+[4.684s] Installing spawner script to scripts
+[4.786s] [ 50%] Built target ament_cmake_python_build_turtlebot3_gazebo_scripts
+[13.866s] [ 62%] [32m[1mLinking CXX shared library libobstacle1.so[0m
+[14.396s] [ 62%] Built target obstacle1
+[16.500s] [ 75%] [32m[1mLinking CXX shared library libobstacle2.so[0m
+[16.745s] [ 75%] Built target obstacle2
+[17.848s] [ 87%] [32m[1mLinking CXX shared library libobstacles.so[0m
+[18.241s] [ 87%] Built target obstacles
+[18.308s] [100%] [32m[1mLinking CXX executable turtlebot3_drive[0m
+[18.793s] [100%] Built target turtlebot3_drive
+[18.803s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo -- -j12 -l12
+[18.828s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo
+[18.840s] -- Install configuration: ""
+[18.840s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/turtlebot3_gazebo/turtlebot3_drive
+[18.844s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/turtlebot3_gazebo/turtlebot3_drive" to ""
+[18.845s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch
+[18.845s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_house.launch.py
+[18.845s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage3.launch.py
+[18.845s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage4.launch.py
+[18.845s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/robot_state_publisher.launch.py
+[18.845s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_world.launch.py
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/spawn_turtlebot3.launch.py
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage1.launch.py
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/maze.launch.py
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage2.launch.py
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/empty_world.launch.py
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/model.sdf
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/model.config
+[18.846s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/materials
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/materials/textures
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/materials/textures/camera.png
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/meshes
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/advanced_logical_camera/meshes/camera.dae
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi/model-1_4_.sdf
+[18.847s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi/model.sdf
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi/model.config
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/model.config
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/waffle_base.dae
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/tire.dae
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/r200.dae
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/waffle_pi_base.dae
+[18.848s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/lds.dae
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/camera.dae
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/burger_base.dae
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/model.sdf
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/model.config
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/textures
+[18.849s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/textures/marker_0_old.png
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/textures/5x5_1000-0.png
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/textures/5x5_1000-0.svg
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/textures/svgtopng.zip
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/textures/svgtopng
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/scripts
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_0/materials/scripts/marker.material
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger/model.sdf
+[18.850s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger/model.config
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger/model-1_4.sdf
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/model.sdf
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/model.config
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/meshes
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/meshes/wall.dae
+[18.851s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/meshes/hexagon.dae
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/model-1_4.sdf
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle/model.sdf
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle/model.config
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle/model-1_4.sdf
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/model.sdf
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/model.config
+[18.852s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/meshes
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/meshes/regulator_collision.stl
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/meshes/regulator_base.stl
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/meshes/regulator_long_peg.stl
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/regulator/meshes/regulator_short_peg.stl
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/model.sdf
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/model.config
+[18.853s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/textures
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/textures/marker_1.png
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/textures/5x5_1000-1.svg
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/textures/svgtopng.zip
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/textures/svgtopng
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/textures/5x5_1000-1.png
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/scripts
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_1/materials/scripts/marker.material
+[18.854s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/model.sdf
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/model.config
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/textures
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/textures/marker_2.png
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/textures/5x5_1000-2.png
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/textures/svgtopng.zip
+[18.855s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/textures/svgtopng
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/textures/5x5_1000-2.svg
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/scripts
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_2/materials/scripts/marker.material
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/model.sdf
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/model.config
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_base.stl
+[18.856s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_right_pane.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_back_pane.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_front_pane.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_left_pane.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_bottom_pane.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_enclosure.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_top_pane.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/pump/meshes/pump_collision.stl
+[18.857s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_house
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_house/model.sdf
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_house/model.config
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/maze_world
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/maze_world/model.sdf
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/maze_world/model.config
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/model.sdf
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/model.config
+[18.858s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/materials
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/materials/textures
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/materials/textures/marker_3.png
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/materials/scripts
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/aruco_marker_3/materials/scripts/marker.material
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/model.sdf
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/model.config
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/meshes
+[18.859s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/meshes/battery_base.stl
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/meshes/battery_collision.stl
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/meshes/battery_cap.stl
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/battery/meshes/battery_pins.stl
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor/model.sdf
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor/model.config
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor/meshes
+[18.860s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor/meshes/sensor_collision.stl
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor/meshes/sensor_peg.stl
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/sensor/meshes/sensor_base.stl
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/inner_walls
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/inner_walls/model.sdf
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/inner_walls/model.config
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle2
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle2/model.sdf
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle2/model.config
+[18.861s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/model.sdf
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/model.config
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/obstacles.cc
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/CMakeLists.txt
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/obstacle1.cc
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/obstacle2.cc
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle1
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle1/model.sdf
+[18.862s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle1/model.config
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/goal_box
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/goal_box/model.sdf
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/goal_box/model.config
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacles
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacles/model.sdf
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacles/model.config
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//rviz
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//rviz/tb3_gazebo.rviz
+[18.863s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_burger.urdf
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_waffle_pi.urdf
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_waffle.urdf
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/common_properties.urdf
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/empty_world.world
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage1.world
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/maze_world.world
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_house.world
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage4.world
+[18.864s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage3.world
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage2.world
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_world.world
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//map
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//map/maze.pgm
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//map/maze.yaml
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/include/
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/include//turtlebot3_gazebo
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/include//turtlebot3_gazebo/turtlebot3_drive.hpp
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/pythonpath.sh
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/pythonpath.dsv
+[18.865s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages//turtlebot3_gazebo.egg-info
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages//turtlebot3_gazebo.egg-info/top_level.txt
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages//turtlebot3_gazebo.egg-info/SOURCES.txt
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages//turtlebot3_gazebo.egg-info/entry_points.txt
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages//turtlebot3_gazebo.egg-info/PKG-INFO
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages//turtlebot3_gazebo.egg-info/dependency_links.txt
+[18.866s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/turtlebot3_gazebo/
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/turtlebot3_gazebo//spawner
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo/__init__.py
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo/spawn_params.py
+[18.866s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo/utilities.py
+[18.907s] Listing '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo'...
+[18.908s] Compiling '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo/__init__.py'...
+[18.908s] Compiling '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo/spawn_params.py'...
+[18.908s] Compiling '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/python3.8/site-packages/turtlebot3_gazebo/utilities.py'...
+[18.914s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/lib/turtlebot3_gazebo/part_spawner.py
+[18.914s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/ament_index/resource_index/package_run_dependencies/turtlebot3_gazebo
+[18.914s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/ament_index/resource_index/parent_prefix_path/turtlebot3_gazebo
+[18.914s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/ament_prefix_path.sh
+[18.915s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/ament_prefix_path.dsv
+[18.915s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/path.sh
+[18.915s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/path.dsv
+[18.915s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.bash
+[18.915s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.sh
+[18.915s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.zsh
+[18.916s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.dsv
+[18.916s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/package.dsv
+[18.916s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/ament_index/resource_index/packages/turtlebot3_gazebo
+[18.916s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/ament_cmake_export_include_directories-extras.cmake
+[18.916s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/ament_cmake_export_dependencies-extras.cmake
+[18.917s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake
+[18.917s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake
+[18.917s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/package.xml
+[18.921s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_gazebo

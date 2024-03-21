@@ -1,0 +1,31 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mage_msgs/msg/Part.msg
+// generated code does not contain a copyright notice
+
+
+module mage_msgs {
+  module msg {
+    module Part_Constants {
+      const uint8 RED = 0;
+      const uint8 GREEN = 1;
+      const uint8 BLUE = 2;
+      const uint8 ORANGE = 3;
+      const uint8 PURPLE = 4;
+      const uint8 BATTERY = 10;
+      const uint8 PUMP = 11;
+      const uint8 SENSOR = 12;
+      const uint8 REGULATOR = 13;
+    };
+    @verbatim (language="comment", text=
+      " part color")
+    struct Part {
+      @verbatim (language="comment", text=
+        " RED, GREEN, BLUE, ORANGE, or PURPLE")
+      uint8 color;
+
+      @verbatim (language="comment", text=
+        " BATTERY, PUMP, SENSOR, or REGULATOR")
+      uint8 type;
+    };
+  };
+};

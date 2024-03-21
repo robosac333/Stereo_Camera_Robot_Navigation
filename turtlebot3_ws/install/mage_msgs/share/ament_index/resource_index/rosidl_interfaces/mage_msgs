@@ -1,0 +1,12 @@
+msg/AdvancedLogicalCameraImage.idl
+msg/AdvancedLogicalCameraImage.msg
+msg/Marker.idl
+msg/Marker.msg
+msg/MarkerArray.idl
+msg/MarkerArray.msg
+msg/Part.idl
+msg/Part.msg
+msg/PartPose.idl
+msg/PartPose.msg
+msg/Sensors.idl
+msg/Sensors.msg

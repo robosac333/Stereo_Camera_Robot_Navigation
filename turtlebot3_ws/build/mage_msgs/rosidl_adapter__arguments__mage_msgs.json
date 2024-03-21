@@ -1,0 +1,11 @@
+{
+  "package_name": "mage_msgs",
+  "non_idl_tuples": [
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs:msg/AdvancedLogicalCameraImage.msg",
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs:msg/Part.msg",
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs:msg/PartPose.msg",
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs:msg/Sensors.msg",
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs:msg/Marker.msg",
+    "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs:msg/MarkerArray.msg"
+  ]
+}

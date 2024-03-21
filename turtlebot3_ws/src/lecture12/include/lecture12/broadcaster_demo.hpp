@@ -11,7 +11,7 @@
 #include "tf2_ros/transform_broadcaster.h"
 #include <tf2_ros/transform_listener.h>
 #include <tf2_ros/buffer.h>
-#include "ros2_aruco_interfaces/msg/aruco_markers.hpp"
+#include "ros2_aruco_interfaces/msg/ArucoMarkers.hpp"
 #include "mage_msgs/msg/advanced_logical_camera_image.hpp"
 #include "sensor_msgs/msg/imu.hpp"
 #include "rosgraph_msgs/msg/clock.hpp"

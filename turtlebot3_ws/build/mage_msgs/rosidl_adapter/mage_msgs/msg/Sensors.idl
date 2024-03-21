@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mage_msgs/msg/Sensors.msg
+// generated code does not contain a copyright notice
+
+
+module mage_msgs {
+  module msg {
+    struct Sensors {
+      boolean break_beam;
+
+      boolean proximity;
+
+      boolean laser_profiler;
+
+      boolean lidar;
+
+      boolean camera;
+
+      boolean logical_camera;
+    };
+  };
+};

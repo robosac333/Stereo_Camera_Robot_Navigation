@@ -1,0 +1,9 @@
+In file included from [01m[K/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/lecture12/src/broadcaster_demo.cpp:1[m[K:
+[01m[K/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/lecture12/include/lecture12/broadcaster_demo.hpp:14:10:[m[K [01;31m[Kfatal error: [m[Kros2_aruco_interfaces/msg/ArucoMarkers.hpp: No such file or directory
+   14 | #include [01;31m[K"ros2_aruco_interfaces/msg/ArucoMarkers.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/broadcaster_demo.dir/build.make:63: CMakeFiles/broadcaster_demo.dir/src/broadcaster_demo.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:105: CMakeFiles/broadcaster_demo.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

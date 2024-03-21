@@ -1,0 +1,159 @@
+[0.387s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors': AMENT_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:/opt/ros/galactic LD_LIBRARY_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/turtlebot3_sensors -DCMAKE_INSTALL_PREFIX=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors
+[0.459s] -- The C compiler identification is GNU 9.4.0
+[0.528s] -- The CXX compiler identification is GNU 9.4.0
+[0.541s] -- Check for working C compiler: /usr/bin/cc
+[0.638s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.639s] -- Detecting C compiler ABI info
+[0.740s] -- Detecting C compiler ABI info - done
+[0.761s] -- Detecting C compile features
+[0.762s] -- Detecting C compile features - done
+[0.766s] -- Check for working CXX compiler: /usr/bin/c++
+[0.880s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.882s] -- Detecting CXX compiler ABI info
+[0.997s] -- Detecting CXX compiler ABI info - done
+[1.016s] -- Detecting CXX compile features
+[1.017s] -- Detecting CXX compile features - done
+[1.020s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[1.060s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.060s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.197s] -- Found camera_info_manager: 2.5.1 (/opt/ros/galactic/share/camera_info_manager/cmake)
+[1.287s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.298s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[1.450s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.508s] -- Found FastRTPS: /opt/ros/galactic/include  
+[1.669s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.779s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[1.784s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[1.807s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.808s] -- Looking for pthread.h
+[1.932s] -- Looking for pthread.h - found
+[1.932s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.045s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.045s] -- Looking for pthread_create in pthreads
+[2.136s] -- Looking for pthread_create in pthreads - not found
+[2.136s] -- Looking for pthread_create in pthread
+[2.247s] -- Looking for pthread_create in pthread - found
+[2.249s] -- Found Threads: TRUE  
+[2.689s] -- Found gazebo_msgs: 3.5.2 (/opt/ros/galactic/share/gazebo_msgs/cmake)
+[2.911s] -- Found gazebo_ros: 3.5.2 (/opt/ros/galactic/share/gazebo_ros/cmake)
+[2.922s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[2.924s] -- Checking for module 'bullet>=2.82'
+[2.952s] --   Found bullet, version 2.88
+[3.165s] -- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+[3.270s] -- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+[3.336s] -- Found assimp: /usr/include (found version "5.0.0") 
+[3.372s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[3.416s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[3.453s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+[3.460s] -- Looking for ignition-math6 -- found version 6.15.1
+[3.469s] -- Searching for dependencies of ignition-math6
+[3.471s] -- Looking for OGRE...
+[3.472s] -- OGRE_PREFIX_WATCH changed.
+[3.479s] -- Checking for module 'OGRE'
+[3.503s] --   Found OGRE, version 1.9.0
+[3.571s] -- Found Ogre Ghadamon (1.9.0)
+[3.597s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[3.616s] -- Looking for OGRE_Paging...
+[3.633s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[3.636s] -- Looking for OGRE_Terrain...
+[3.650s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[3.650s] -- Looking for OGRE_Property...
+[3.667s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[3.668s] -- Looking for OGRE_RTShaderSystem...
+[3.683s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[3.683s] -- Looking for OGRE_Volume...
+[3.698s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[3.700s] -- Looking for OGRE_Overlay...
+[3.715s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[4.012s] -- Looking for ignition-math6 -- found version 6.15.1
+[4.015s] -- Looking for ignition-transport8 -- found version 8.3.0
+[4.015s] -- Searching for dependencies of ignition-transport8
+[4.038s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+[4.057s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[4.066s] -- Checking for module 'libzmq >= 4'
+[4.103s] --   Found libzmq , version 4.3.2
+[4.198s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[4.206s] -- Checking for module 'uuid'
+[4.236s] --   Found uuid, version 2.34.0
+[4.323s] -- Found UUID: TRUE  
+[4.323s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[4.323s] -- Searching for dependencies of ignition-msgs5
+[4.357s] -- Looking for ignition-math6 -- found version 6.15.1
+[4.364s] -- Checking for module 'tinyxml2'
+[4.385s] --   Found tinyxml2, version 6.2.0
+[4.442s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[4.445s] -- Looking for ignition-common3 -- found version 3.14.2
+[4.446s] -- Searching for dependencies of ignition-common3
+[4.447s] -- Looking for dlfcn.h - found
+[4.449s] -- Looking for libdl - found
+[4.451s] -- Found DL: TRUE  
+[4.466s] -- Searching for <ignition-common3> component [graphics]
+[4.469s] -- Looking for ignition-common3-graphics -- found version 3.14.2
+[4.470s] -- Searching for dependencies of ignition-common3-graphics
+[4.471s] -- Looking for ignition-math6 -- found version 6.15.1
+[4.474s] -- Looking for ignition-fuel_tools4 -- found version 4.6.0
+[4.475s] -- Searching for dependencies of ignition-fuel_tools4
+[4.594s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+[4.605s] -- Checking for module 'jsoncpp'
+[4.626s] --   Found jsoncpp, version 1.7.4
+[4.685s] -- Found JSONCPP: TRUE  
+[4.691s] -- Checking for module 'libzip'
+[4.708s] --   Found libzip, version 1.5.1
+[4.766s] -- Found ZIP: TRUE  
+[4.767s] -- Looking for ignition-common3 -- found version 3.14.2
+[4.768s] -- Looking for ignition-math6 -- found version 6.15.1
+[4.768s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[4.770s] -- Gazebo version: 11.11
+[4.779s] -- Found image_transport: 2.5.1 (/opt/ros/galactic/share/image_transport/cmake)
+[4.866s] -- Found cv_bridge: 3.1.3 (/opt/ros/galactic/share/cv_bridge/cmake)
+[4.909s] -- Found std_srvs: 2.2.4 (/opt/ros/galactic/share/std_srvs/cmake)
+[4.924s] -- Found tf2: 0.17.5 (/opt/ros/galactic/share/tf2/cmake)
+[4.939s] -- Found tf2_geometry_msgs: 0.17.5 (/opt/ros/galactic/share/tf2_geometry_msgs/cmake)
+[4.951s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/galactic/share/eigen3_cmake_module/cmake)
+[4.953s] -- Found Eigen3: TRUE (found version "3.3.7") 
+[5.566s] -- Found mage_msgs: 0.0.0 (/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake)
+[5.953s] -- Configuring done
+[5.982s] -- Generating done
+[5.985s] -- Build files have been written to: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors
+[5.996s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors' returned '0': AMENT_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:/opt/ros/galactic LD_LIBRARY_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/turtlebot3_sensors -DCMAKE_INSTALL_PREFIX=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors
+[5.998s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors': AMENT_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:/opt/ros/galactic LD_LIBRARY_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors -- -j12 -l12
+[6.036s] [35m[1mScanning dependencies of target AriacLogicalCameraPlugin[0m
+[6.129s] [ 50%] [32mBuilding CXX object CMakeFiles/AriacLogicalCameraPlugin.dir/src/ariac_logical_camera_plugin.cpp.o[0m
+[15.481s] [100%] [32m[1mLinking CXX shared library libAriacLogicalCameraPlugin.so[0m
+[16.098s] [100%] Built target AriacLogicalCameraPlugin
+[16.109s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors' returned '0': AMENT_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:/opt/ros/galactic LD_LIBRARY_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors -- -j12 -l12
+[16.132s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors': AMENT_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:/opt/ros/galactic LD_LIBRARY_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors
+[16.138s] -- Install configuration: ""
+[16.138s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/environment/library_path.sh
+[16.138s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/environment/library_path.dsv
+[16.139s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/include
+[16.139s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/include/turtlebot3_sensors
+[16.139s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/include/turtlebot3_sensors/ariac_logical_camera_plugin.hpp
+[16.139s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/lib/libAriacLogicalCameraPlugin.so
+[16.141s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/lib/libAriacLogicalCameraPlugin.so" to ""
+[16.141s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models
+[16.141s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera
+[16.141s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/model.sdf
+[16.141s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/model.config
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/materials
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/materials/textures
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/materials/textures/camera.png
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/meshes
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors//models/advanced_logical_camera/meshes/camera.dae
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/ament_index/resource_index/package_run_dependencies/turtlebot3_sensors
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/ament_index/resource_index/parent_prefix_path/turtlebot3_sensors
+[16.142s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/environment/ament_prefix_path.sh
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/environment/ament_prefix_path.dsv
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/environment/path.sh
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/environment/path.dsv
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/local_setup.bash
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/local_setup.sh
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/local_setup.zsh
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/local_setup.dsv
+[16.143s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/package.dsv
+[16.144s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/ament_index/resource_index/packages/turtlebot3_sensors
+[16.144s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/cmake/ament_cmake_export_libraries-extras.cmake
+[16.144s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/cmake/turtlebot3_sensorsConfig.cmake
+[16.144s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/cmake/turtlebot3_sensorsConfig-version.cmake
+[16.144s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/turtlebot3_sensors/share/turtlebot3_sensors/package.xml
+[16.147s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors' returned '0': AMENT_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs:/opt/ros/galactic LD_LIBRARY_PATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/turtlebot3_sensors

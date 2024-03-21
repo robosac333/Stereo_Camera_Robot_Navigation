@@ -1,0 +1,352 @@
+[1.014s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs -DCMAKE_INSTALL_PREFIX=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs
+[1.594s] -- The C compiler identification is GNU 9.4.0
+[1.594s] -- The CXX compiler identification is GNU 9.4.0
+[1.594s] -- Check for working C compiler: /usr/bin/cc
+[1.594s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.594s] -- Detecting C compiler ABI info
+[1.594s] -- Detecting C compiler ABI info - done
+[1.594s] -- Detecting C compile features
+[1.594s] -- Detecting C compile features - done
+[1.594s] -- Check for working CXX compiler: /usr/bin/c++
+[1.594s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.594s] -- Detecting CXX compiler ABI info
+[1.595s] -- Detecting CXX compiler ABI info - done
+[1.595s] -- Detecting CXX compile features
+[1.595s] -- Detecting CXX compile features - done
+[1.595s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[1.595s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.595s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.595s] -- Found builtin_interfaces: 1.0.3 (/opt/ros/galactic/share/builtin_interfaces/cmake)
+[1.595s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.595s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[1.595s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.595s] -- Found FastRTPS: /opt/ros/galactic/include  
+[1.636s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.653s] -- Found std_msgs: 2.2.4 (/opt/ros/galactic/share/std_msgs/cmake)
+[1.663s] -- Found geometry_msgs: 2.2.4 (/opt/ros/galactic/share/geometry_msgs/cmake)
+[1.685s] -- Found rosidl_default_generators: 1.1.1 (/opt/ros/galactic/share/rosidl_default_generators/cmake)
+[1.705s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[1.867s] -- Found ament_cmake_cppcheck: 0.10.7 (/opt/ros/galactic/share/ament_cmake_cppcheck/cmake)
+[1.869s] -- Found ament_cmake_cpplint: 0.10.7 (/opt/ros/galactic/share/ament_cmake_cpplint/cmake)
+[1.870s] -- Found ament_cmake_uncrustify: 0.10.7 (/opt/ros/galactic/share/ament_cmake_uncrustify/cmake)
+[1.871s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/galactic/share/ament_cmake_ros/cmake)
+[2.025s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.094s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.114s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[2.115s] -- Found python_cmake_module: 0.8.1 (/opt/ros/galactic/share/python_cmake_module/cmake)
+[2.138s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[2.138s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.138s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[2.138s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[2.154s] -- Found PythonExtra: .so  
+[2.223s] -- Found ament_cmake_flake8: 0.10.7 (/opt/ros/galactic/share/ament_cmake_flake8/cmake)
+[2.225s] -- Found ament_cmake_pep257: 0.10.7 (/opt/ros/galactic/share/ament_cmake_pep257/cmake)
+[2.236s] -- Configuring done
+[2.299s] -- Generating done
+[2.302s] -- Build files have been written to: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs
+[2.573s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/src/mage_msgs -DCMAKE_INSTALL_PREFIX=/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs
+[2.574s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs -- -j12 -l12
+[2.606s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.606s] [35m[1mScanning dependencies of target mage_msgs__cpp[0m
+[2.614s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.007s] [  2%] Built target mage_msgs__cpp
+[3.018s] [  4%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.019s] [  5%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.043s] [  7%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.442s] [35m[1mScanning dependencies of target mage_msgs__rosidl_generator_c[0m
+[3.460s] [  8%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_generator_c.dir/rosidl_generator_c/mage_msgs/msg/detail/sensors__functions.c.o[0m
+[3.460s] [  9%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_generator_c.dir/rosidl_generator_c/mage_msgs/msg/detail/part__functions.c.o[0m
+[3.465s] [ 11%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_generator_c.dir/rosidl_generator_c/mage_msgs/msg/detail/part_pose__functions.c.o[0m
+[3.468s] [ 12%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_generator_c.dir/rosidl_generator_c/mage_msgs/msg/detail/advanced_logical_camera_image__functions.c.o[0m
+[3.476s] [ 14%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_generator_c.dir/rosidl_generator_c/mage_msgs/msg/detail/marker__functions.c.o[0m
+[3.477s] [ 15%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_generator_c.dir/rosidl_generator_c/mage_msgs/msg/detail/marker_array__functions.c.o[0m
+[3.609s] [ 16%] [32m[1mLinking C shared library libmage_msgs__rosidl_generator_c.so[0m
+[3.615s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_cpp[0m
+[3.627s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[3.636s] [ 18%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mage_msgs/msg/part__type_support.cpp.o[0m
+[3.637s] [ 19%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mage_msgs/msg/advanced_logical_camera_image__type_support.cpp.o[0m
+[3.646s] [ 21%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mage_msgs/msg/sensors__type_support.cpp.o[0m
+[3.647s] [ 22%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mage_msgs/msg/part_pose__type_support.cpp.o[0m
+[3.656s] [ 23%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mage_msgs/msg/marker__type_support.cpp.o[0m
+[3.661s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_introspection_cpp[0m
+[3.665s] [ 25%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mage_msgs/msg/detail/dds_fastrtps/advanced_logical_camera_image__type_support.cpp.o[0m
+[3.675s] [ 28%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mage_msgs/msg/marker_array__type_support.cpp.o[0m
+[3.676s] [ 28%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mage_msgs/msg/detail/dds_fastrtps/part_pose__type_support.cpp.o[0m
+[3.681s] [ 29%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mage_msgs/msg/detail/dds_fastrtps/part__type_support.cpp.o[0m
+[3.687s] [ 30%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mage_msgs/msg/detail/dds_fastrtps/sensors__type_support.cpp.o[0m
+[3.693s] [ 32%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mage_msgs/msg/detail/advanced_logical_camera_image__type_support.cpp.o[0m
+[3.694s] [ 32%] Built target mage_msgs__rosidl_generator_c
+[3.731s] [ 33%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mage_msgs/msg/detail/part__type_support.cpp.o[0m
+[4.022s] [ 35%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mage_msgs/msg/detail/part_pose__type_support.cpp.o[0m
+[4.204s] [ 36%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mage_msgs/msg/detail/dds_fastrtps/marker__type_support.cpp.o[0m
+[4.371s] [ 38%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mage_msgs/msg/detail/dds_fastrtps/marker_array__type_support.cpp.o[0m
+[4.398s] [ 39%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mage_msgs/msg/detail/sensors__type_support.cpp.o[0m
+[4.421s] [ 40%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mage_msgs/msg/detail/marker__type_support.cpp.o[0m
+[4.451s] [ 42%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.495s] [ 43%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mage_msgs/msg/detail/marker_array__type_support.cpp.o[0m
+[4.658s] [ 45%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[4.673s] [ 46%] [32m[1mLinking CXX shared library libmage_msgs__rosidl_typesupport_cpp.so[0m
+[4.791s] [ 46%] Built target mage_msgs__rosidl_typesupport_cpp
+[5.059s] [ 47%] [32m[1mLinking CXX shared library libmage_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[5.263s] [ 47%] Built target mage_msgs__rosidl_typesupport_introspection_cpp
+[5.269s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_introspection_c[0m
+[5.292s] [ 49%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mage_msgs/msg/detail/advanced_logical_camera_image__type_support.c.o[0m
+[5.295s] [ 50%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mage_msgs/msg/detail/part__type_support.c.o[0m
+[5.300s] [ 52%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mage_msgs/msg/detail/part_pose__type_support.c.o[0m
+[5.303s] [ 53%] [32m[1mLinking CXX shared library libmage_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[5.306s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_c[0m
+[5.310s] [ 54%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mage_msgs/msg/detail/sensors__type_support.c.o[0m
+[5.316s] [ 56%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mage_msgs/msg/detail/marker__type_support.c.o[0m
+[5.323s] [ 57%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/mage_msgs/msg/advanced_logical_camera_image__type_support.cpp.o[0m
+[5.334s] [ 59%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/mage_msgs/msg/part__type_support.cpp.o[0m
+[5.349s] [ 60%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/mage_msgs/msg/sensors__type_support.cpp.o[0m
+[5.356s] [ 61%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mage_msgs/msg/detail/marker_array__type_support.c.o[0m
+[5.365s] [ 63%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/mage_msgs/msg/marker_array__type_support.cpp.o[0m
+[5.369s] [ 64%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/mage_msgs/msg/marker__type_support.cpp.o[0m
+[5.375s] [ 66%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/mage_msgs/msg/part_pose__type_support.cpp.o[0m
+[5.413s] [ 67%] [32m[1mLinking C shared library libmage_msgs__rosidl_typesupport_introspection_c.so[0m
+[5.444s] [ 69%] [32m[1mLinking CXX shared library libmage_msgs__rosidl_typesupport_c.so[0m
+[5.453s] [ 69%] Built target mage_msgs__rosidl_typesupport_introspection_c
+[5.496s] [ 69%] Built target mage_msgs__rosidl_typesupport_fastrtps_cpp
+[5.502s] [ 69%] Built target mage_msgs__rosidl_typesupport_c
+[5.510s] [ 70%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.957s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_fastrtps_c[0m
+[5.981s] [ 73%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mage_msgs/msg/detail/part_pose__type_support_c.cpp.o[0m
+[5.985s] [ 76%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mage_msgs/msg/detail/sensors__type_support_c.cpp.o[0m
+[5.986s] [ 73%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mage_msgs/msg/detail/part__type_support_c.cpp.o[0m
+[5.987s] [ 74%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mage_msgs/msg/detail/advanced_logical_camera_image__type_support_c.cpp.o[0m
+[5.991s] [ 77%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mage_msgs/msg/detail/marker__type_support_c.cpp.o[0m
+[5.994s] [ 78%] [32mBuilding CXX object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mage_msgs/msg/detail/marker_array__type_support_c.cpp.o[0m
+[6.542s] [ 80%] [32m[1mLinking CXX shared library libmage_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[6.658s] [ 80%] Built target mage_msgs__rosidl_typesupport_fastrtps_c
+[6.685s] [35m[1mScanning dependencies of target mage_msgs[0m
+[6.693s] [ 80%] Built target mage_msgs
+[6.702s] [35m[1mScanning dependencies of target mage_msgs__py[0m
+[6.712s] [ 81%] [34m[1mGenerating Python code for ROS interfaces[0m
+[7.433s] [ 81%] Built target mage_msgs__py
+[7.444s] [35m[1mScanning dependencies of target mage_msgs__python[0m
+[7.471s] [ 84%] [32mBuilding C object CMakeFiles/mage_msgs__python.dir/rosidl_generator_py/mage_msgs/msg/_part_s.c.o[0m
+[7.472s] [ 84%] [32mBuilding C object CMakeFiles/mage_msgs__python.dir/rosidl_generator_py/mage_msgs/msg/_advanced_logical_camera_image_s.c.o[0m
+[7.475s] [ 87%] [32mBuilding C object CMakeFiles/mage_msgs__python.dir/rosidl_generator_py/mage_msgs/msg/_sensors_s.c.o[0m
+[7.476s] [ 87%] [32mBuilding C object CMakeFiles/mage_msgs__python.dir/rosidl_generator_py/mage_msgs/msg/_part_pose_s.c.o[0m
+[7.495s] [ 88%] [32mBuilding C object CMakeFiles/mage_msgs__python.dir/rosidl_generator_py/mage_msgs/msg/_marker_s.c.o[0m
+[7.549s] [ 90%] [32mBuilding C object CMakeFiles/mage_msgs__python.dir/rosidl_generator_py/mage_msgs/msg/_marker_array_s.c.o[0m
+[7.683s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/mage_msgs/libmage_msgs__python.so[0m
+[7.736s] [ 91%] Built target mage_msgs__python
+[7.749s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_c__pyext[0m
+[7.750s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[7.750s] [35m[1mScanning dependencies of target mage_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[7.775s] [ 94%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/mage_msgs/_mage_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[7.775s] [ 94%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/mage_msgs/_mage_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[7.779s] [ 95%] [32mBuilding C object CMakeFiles/mage_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/mage_msgs/_mage_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[7.897s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/mage_msgs/mage_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[7.899s] [100%] [32m[1mLinking CXX shared library rosidl_generator_py/mage_msgs/mage_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[7.900s] [100%] [32m[1mLinking C shared library rosidl_generator_py/mage_msgs/mage_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[7.941s] [100%] Built target mage_msgs__rosidl_typesupport_introspection_c__pyext
+[7.947s] [100%] Built target mage_msgs__rosidl_typesupport_c__pyext
+[7.988s] [100%] Built target mage_msgs__rosidl_typesupport_fastrtps_c__pyext
+[8.427s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs -- -j12 -l12
+[8.556s] Invoking command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs
+[8.578s] -- Install configuration: ""
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/ament_index/resource_index/rosidl_interfaces/mage_msgs
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/sensors.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/marker.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/part.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/marker_array.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/part_pose.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/advanced_logical_camera_image.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/rosidl_generator_c__visibility_control.h
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail
+[8.579s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__functions.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__type_support.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__functions.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__struct.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__functions.c
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__type_support.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__type_support.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__functions.c
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__functions.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__functions.c
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__struct.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__struct.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__type_support.h
+[8.580s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__functions.c
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__functions.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__functions.c
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__type_support.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__struct.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__struct.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__type_support.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__functions.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__functions.h
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__functions.c
+[8.581s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__struct.h
+[8.582s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/library_path.sh
+[8.582s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/library_path.dsv
+[8.582s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_generator_c.so
+[8.582s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_generator_c.so" to ""
+[8.583s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs
+[8.583s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[8.583s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__rosidl_typesupport_fastrtps_c.h
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_c.h
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__rosidl_typesupport_fastrtps_c.h
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__rosidl_typesupport_fastrtps_c.h
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_c.h
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__rosidl_typesupport_fastrtps_c.h
+[8.583s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_fastrtps_c.so
+[8.584s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[8.584s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs
+[8.584s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg
+[8.584s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[8.584s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail
+[8.584s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__rosidl_typesupport_fastrtps_cpp.hpp
+[8.584s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__rosidl_typesupport_fastrtps_cpp.hpp
+[8.584s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_cpp.hpp
+[8.584s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[8.585s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/dds_fastrtps
+[8.585s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__rosidl_typesupport_fastrtps_cpp.hpp
+[8.585s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_cpp.hpp
+[8.585s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_fastrtps_cpp.so
+[8.585s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[8.586s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs
+[8.586s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[8.586s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__rosidl_typesupport_introspection_c.h
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__type_support.c
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__type_support.c
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__type_support.c
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__type_support.c
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__type_support.c
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__rosidl_typesupport_introspection_c.h
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__type_support.c
+[8.586s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_c.h
+[8.587s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__rosidl_typesupport_introspection_c.h
+[8.589s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__rosidl_typesupport_introspection_c.h
+[8.589s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__rosidl_typesupport_introspection_c.h
+[8.589s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_introspection_c.so
+[8.589s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_introspection_c.so" to ""
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_c.so
+[8.590s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_c.so" to ""
+[8.590s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs
+[8.590s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/marker.hpp
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/marker_array.hpp
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/part.hpp
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/part_pose.hpp
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/advanced_logical_camera_image.hpp
+[8.590s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/sensors.hpp
+[8.591s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail
+[8.591s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__struct.hpp
+[8.591s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__struct.hpp
+[8.591s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__traits.hpp
+[8.591s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__builder.hpp
+[8.591s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__builder.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__builder.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__builder.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__struct.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__traits.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__builder.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__builder.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__struct.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__struct.hpp
+[8.592s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__traits.hpp
+[8.593s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__struct.hpp
+[8.593s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__traits.hpp
+[8.593s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__traits.hpp
+[8.593s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__traits.hpp
+[8.593s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs
+[8.593s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg
+[8.593s] -- Up-to-date: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail
+[8.593s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__rosidl_typesupport_introspection_cpp.hpp
+[8.593s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__rosidl_typesupport_introspection_cpp.hpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__rosidl_typesupport_introspection_cpp.hpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__type_support.cpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/advanced_logical_camera_image__type_support.cpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_cpp.hpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/sensors__type_support.cpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__rosidl_typesupport_introspection_cpp.hpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part_pose__type_support.cpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker_array__type_support.cpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/marker__rosidl_typesupport_introspection_cpp.hpp
+[8.594s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/include/mage_msgs/msg/detail/part__type_support.cpp
+[8.595s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_introspection_cpp.so
+[8.595s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[8.595s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_cpp.so
+[8.595s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__rosidl_typesupport_cpp.so" to ""
+[8.595s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/pythonpath.sh
+[8.595s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/pythonpath.dsv
+[8.595s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/__init__.py
+[8.633s] Compiling '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/__init__.py'...
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_marker_array.py
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_advanced_logical_camera_image_s.c
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/__init__.py
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_advanced_logical_camera_image.py
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_marker_s.c
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_part.py
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_marker.py
+[8.640s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_sensors.py
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_marker_array_s.c
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_sensors_s.c
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_part_s.c
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_part_pose_s.c
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/msg/_part_pose.py
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/mage_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[8.641s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/mage_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[8.641s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/mage_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[8.642s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/mage_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[8.642s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/mage_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[8.642s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/python3.8/site-packages/mage_msgs/mage_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[8.643s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__python.so
+[8.643s] -- Set runtime path of "/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/lib/libmage_msgs__python.so" to ""
+[8.643s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/AdvancedLogicalCameraImage.idl
+[8.643s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/Part.idl
+[8.643s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/PartPose.idl
+[8.643s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/Sensors.idl
+[8.643s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/Marker.idl
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/MarkerArray.idl
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/AdvancedLogicalCameraImage.msg
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/Part.msg
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/PartPose.msg
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/Sensors.msg
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/Marker.msg
+[8.644s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/msg/MarkerArray.msg
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/ament_index/resource_index/package_run_dependencies/mage_msgs
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/ament_index/resource_index/parent_prefix_path/mage_msgs
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/ament_prefix_path.sh
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/ament_prefix_path.dsv
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/path.sh
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/environment/path.dsv
+[8.645s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/local_setup.bash
+[8.646s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/local_setup.sh
+[8.646s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/local_setup.zsh
+[8.646s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/local_setup.dsv
+[8.646s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/package.dsv
+[8.646s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/ament_index/resource_index/packages/mage_msgs
+[8.646s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_generator_cExport.cmake
+[8.647s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_generator_cExport-noconfig.cmake
+[8.647s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_introspection_cExport.cmake
+[8.647s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[8.647s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_cExport.cmake
+[8.647s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[8.648s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_generator_cppExport.cmake
+[8.648s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[8.648s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[8.648s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_cppExport.cmake
+[8.648s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[8.648s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/rosidl_cmake-extras.cmake
+[8.649s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.649s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[8.649s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[8.649s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.649s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[8.650s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[8.650s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgsConfig.cmake
+[8.650s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/cmake/mage_msgsConfig-version.cmake
+[8.650s] -- Installing: /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/install/mage_msgs/share/mage_msgs/package.xml
+[8.653s] Invoked command in '/home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/sj/Desktop/Robotics_yo/809Y/Move-the-turtlebot3-through-the-maze-as-per-the-ID-on-the-aruco-marker./turtlebot3_ws/build/mage_msgs
